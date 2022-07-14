@@ -1,0 +1,27 @@
+{
+  "name": "testingpaymentsdk",
+  "version": "1.0.0",
+  "description": "payment SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafifn/paymentSDK.git"
+  },
+  "keywords": [
+    "payment",
+    "SDK"
+  ],
+  "author": "rafifn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafifn/paymentSDK/issues"
+  },
+  "homepage": "https://github.com/rafifn/paymentSDK#readme",
+  "devDependencies": {
+    "eslint": "^8.19.0",
+    "jest": "^28.1.3"
+  }
+}
