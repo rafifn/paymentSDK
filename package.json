@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/rafifn/paymentSDK/issues"
   },
-  "type": "module",
+  "type": "commonjs",
   "homepage": "https://github.com/rafifn/paymentSDK#readme",
   "devDependencies": {
     "eslint": "^8.19.0",
